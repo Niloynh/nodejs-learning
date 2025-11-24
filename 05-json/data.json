@@ -1,0 +1,28 @@
+{
+  "name": "Niloy Hakim",
+  "age": 21,
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "HTML",
+    "CSS"
+  ],
+  "github": "https://github.com/niloynh",
+  "isStudent": true,
+  "projects": [
+    {
+      "title": "StudyBuddy AI",
+      "stack": "MERN",
+      "status": "In progress"
+    },
+    {
+      "title": "Watch & Earn App",
+      "stack": "MERN + AI",
+      "status": "Idea stage"
+    }
+  ],
+  "address": {
+    "city": "Dhaka",
+    "country": "Bangladesh"
+  }
+}
